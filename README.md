@@ -1,1 +1,10 @@
-# europe
+Destination,Vibe/Type & Top Draw,Best Time,Stay & Budget,Famous Local Eat,What to Shop,Shopping Area,Quick Day Trip
+Berlin,Vibe: Gritty/UrbanDraw: Branden. Gate,May–Sept,4 Days€€,Currywurst(Sausage/Curry),Ampelmännchenmerchandise,Kurfürstendamm(High-end/Mitte),Potsdam(Palaces)
+Munich,Vibe: Alpine/TradDraw: Marienplatz,Sept–Oct,3 Days€€€,Weißwurst(White sausage),Designer Dirndls& Beer Steins,Kaufingerstraße(Pedestrian),Neuschwanstein(Fairytale Castle)
+Hamburg,Vibe: Maritime/CoolDraw: The Port,June–Aug,2 Days€€,Fischbrötchen(Fish sandwich),Traditional Sailorsweaters,Mönckebergstraße(Major hub),Lübeck(Marzipan/History)
+Cologne,Vibe: Gothic/FriendlyDraw: The Cathedral,Nov/Feb,2 Days€€,Himmel un Ääd(Mashed potato/apple),4711 Eau deCologne,Schildergasse(Busiest street),Bonn(Beethoven's home)
+Frankfurt,Vibe: Finance/SkylineDraw: Römerberg,April–Oct,2 Days€€€,Grüne Soße(Green herb sauce),Bembel(Apple wine jugs),The Zeil(Massive mall),Heidelberg(Castle ruins)
+Dresden,Vibe: Baroque/ArtDraw: Frauenkirche,May–Sept,2 Days€,Eierschecke(Layered cake),MeissenPorcelain,Prager Straße(Modern hub),Saxon Switzerland(Hiking/Bastei)
+Nuremberg,Vibe: Medieval/HistoryDraw: Imperial Castle,December,2 Days€€,Rostbratwurst(Small sausages),HandcraftedWooden Toys,Königsstraße(Old Town),Bamberg(Smoked beer)
+Black Forest,Vibe: Nature/FairyDraw: Lake Titisee,May–Oct,4 Days€€,Schwarzwälder Kirsch(Cherry Cake),Cuckoo Clocks(Regional icon),Freiburg Altstadt(Old Town stalls),Baden-Baden(Luxury Spas)
+Rothenburg,Vibe: Medieval GemDraw: Town Walls,December,1 Day€€,Schneeballen(Snowball pastry),ChristmasOrnaments,Market Square(Quaint shops),Dinkelsbühl(Walled town)
