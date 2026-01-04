@@ -1,10 +1,13 @@
-Destination,Vibe/Type & Top Draw,Best Time,Stay & Budget,Famous Local Eat,What to Shop,Shopping Area,Quick Day Trip
-Berlin,Vibe: Gritty/UrbanDraw: Branden. Gate,May–Sept,4 Days€€,Currywurst(Sausage/Curry),Ampelmännchenmerchandise,Kurfürstendamm(High-end/Mitte),Potsdam(Palaces)
-Munich,Vibe: Alpine/TradDraw: Marienplatz,Sept–Oct,3 Days€€€,Weißwurst(White sausage),Designer Dirndls& Beer Steins,Kaufingerstraße(Pedestrian),Neuschwanstein(Fairytale Castle)
-Hamburg,Vibe: Maritime/CoolDraw: The Port,June–Aug,2 Days€€,Fischbrötchen(Fish sandwich),Traditional Sailorsweaters,Mönckebergstraße(Major hub),Lübeck(Marzipan/History)
-Cologne,Vibe: Gothic/FriendlyDraw: The Cathedral,Nov/Feb,2 Days€€,Himmel un Ääd(Mashed potato/apple),4711 Eau deCologne,Schildergasse(Busiest street),Bonn(Beethoven's home)
-Frankfurt,Vibe: Finance/SkylineDraw: Römerberg,April–Oct,2 Days€€€,Grüne Soße(Green herb sauce),Bembel(Apple wine jugs),The Zeil(Massive mall),Heidelberg(Castle ruins)
-Dresden,Vibe: Baroque/ArtDraw: Frauenkirche,May–Sept,2 Days€,Eierschecke(Layered cake),MeissenPorcelain,Prager Straße(Modern hub),Saxon Switzerland(Hiking/Bastei)
-Nuremberg,Vibe: Medieval/HistoryDraw: Imperial Castle,December,2 Days€€,Rostbratwurst(Small sausages),HandcraftedWooden Toys,Königsstraße(Old Town),Bamberg(Smoked beer)
-Black Forest,Vibe: Nature/FairyDraw: Lake Titisee,May–Oct,4 Days€€,Schwarzwälder Kirsch(Cherry Cake),Cuckoo Clocks(Regional icon),Freiburg Altstadt(Old Town stalls),Baden-Baden(Luxury Spas)
-Rothenburg,Vibe: Medieval GemDraw: Town Walls,December,1 Day€€,Schneeballen(Snowball pastry),ChristmasOrnaments,Market Square(Quaint shops),Dinkelsbühl(Walled town)
+### 🇩🇪 Germany Travel Cheat Sheet
+
+| Destination                  | Vibe / Type & Top Draw               | Best Time | Ideal Stay & Budget | Famous Local Eat                    | What to Shop                  | Shopping Area                    | Quick Day Trip             |
+| ---------------------------- | ------------------------------------ | --------- | ------------------- | ----------------------------------- | ----------------------------- | -------------------------------- | -------------------------- |
+| **Berlin**                   | Gritty, Urban • Brandenburg Gate     | May–Sept  | 4 days • €€         | Currywurst (sausage & curry)        | Ampelmännchen merchandise     | Kurfürstendamm (High-end), Mitte | Potsdam (palaces)          |
+| **Munich**                   | Alpine, Traditional • Marienplatz    | Sept–Oct  | 3 days • €€€        | Weißwurst (white sausage)           | Designer dirndls, beer steins | Kaufingerstraße (pedestrian)     | Neuschwanstein Castle      |
+| **Hamburg**                  | Maritime, Cool • The Port            | June–Aug  | 2 days • €€         | Fischbrötchen (fish sandwich)       | Sailor sweaters               | Mönckebergstraße (main hub)      | Lübeck (marzipan, history) |
+| **Cologne**                  | Gothic, Friendly • Cologne Cathedral | Nov–Feb   | 2 days • €€         | Himmel un Ääd (potato & apple mash) | 4711 Eau de Cologne           | Schildergasse (busiest street)   | Bonn (Beethoven’s home)    |
+| **Frankfurt**                | Finance, Skyline • Römerberg         | Apr–Oct   | 2 days • €€€        | Grüne Soße (green herb sauce)       | Bembel (apple-wine jugs)      | The Zeil (major mall street)     | Heidelberg (castle ruins)  |
+| **Dresden**                  | Baroque, Art • Frauenkirche          | May–Sept  | 2 days • €          | Eierschecke (layered cake)          | Meissen porcelain             | Prager Straße (modern hub)       | Saxon Switzerland (Bastei) |
+| **Nuremberg**                | Medieval, History • Imperial Castle  | December  | 2 days • €€         | Nürnberger Rostbratwurst            | Handcrafted wooden toys       | Königsstraße (Old Town)          | Bamberg (smoked beer)      |
+| **Black Forest**             | Nature, Fairy-tale • Lake Titisee    | May–Oct   | 4 days • €€         | Schwarzwälder Kirschtorte           | Cuckoo clocks                 | Freiburg Altstadt                | Baden-Baden (luxury spas)  |
+| **Rothenburg ob der Tauber** | Medieval Gem • Town Walls            | December  | 1 day • €€          | Schneeballen pastry                 | Christmas ornaments           | Market Square                    | Dinkelsbühl (walled town)  |
